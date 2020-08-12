@@ -1,0 +1,11 @@
+transactionIdentifier,employerNames,employerABN,fundIdentifier,fundEmployerIdentifier,memberFirstName,memberLastName,memberOtherNames,memberDateOfBirth,memberGender,memberAddress,memberEmail,memberContactNumber,memberNumber,memberTFN,memberPayrollNumber,memberEmploymentStatus,memberFundRegistrationDate
+1,ACME Inc,55 794 738 187,FUND123,FEID1,John,Smith,,23/12/90,M,12 Alcott Street Sydney NSW 2000,jsmith@email.com,401234567,M12345,123456782,P12345,Permanent,21/10/17
+1,ACME Inc,55 794 738 187,FUND123,FEID1,Jane,Smith,,23/2/80,F,23 Giles Crescent North Sydney NSW 2060,jsmith12@email.com,421234567,M12346,123456782,P12346,Permanent,21/9/11
+1,ACME Inc,55 794 738 187,FUND123,FEID1,Jeffrey,Smith,,22/3/91,M,18 Betty Lane Sydney NSW 2000,jsmith43@email.com,401444321,M12347,123456782,P12347,Permanent,21/11/07
+1,ACME Inc,55 794 738 187,FUND123,FEID1,Jill,Jones,,23/2/76,F,101a Down Street Sydney NSW 2000,jjones@email.com,411293222,M12348,123456782,P12348,Casual,21/10/14
+1,Bills made Easy,72 805 608 587,FUND123,FEID2,Jack,Smith,,3/12/55,M,77 Harris Street Sydney NSW 2000,jsmith77@email.com,409293888,M12345,123456782,P85473,Permanent,21/1/03
+1,Bills made Easy,72 805 608 587,FUND123,FEID2,James,Smith,,4/2/97,M,Ostrich Parade Sydney NSW 2000,jsmith56@email.com,412940392,M12485,123456782,P85475,Permanent,20/10/17
+1,Bills made Easy,72 805 608 587,FUND123,FEID2,Jefferson,Smith,,25/12/92,M,12/232 William Street Sydney NSW 2000,jsmith111@email.com,410394738,M12355,123456782,P85476,Permanent,21/3/20
+1,Viking Decorations,72 164 088 738,FUND456,FEID1,Jed,Smith,,24/12/93,M,121 Black Road Sydney NSW 2000,jsmith11112@email.com,402947382,M15345,123456782,P934748,Permanent,1/11/18
+1,Viking Decorations,72 164 088 738,FUND456,FEID1,Jim,Smith,,29/12/82,M,1 Abbot Close Sydney NSW 2000,jsmith3243@email.com,401102937,M16345,123456782,P934747,Permanent,21/12/16
+1,Viking Decorations,72 164 088 738,FUND456,FEID1,Jarod,Smith,,20/5/81,M,127 Hume Street Sydney NSW 2000,jsmith22245@email.com,401843827,M17345,123456782,P934749,Permanent,21/1/10

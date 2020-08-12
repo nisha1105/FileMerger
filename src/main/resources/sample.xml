@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memberRegistrationTransaction>
+	<transactionIdentifier>2</transactionIdentifier>
+	<transactionDetails>
+		<transactionEmployer>
+			<employerNames>ACME Inc</employerNames>
+			<employerABN>55 794 738 187</employerABN>
+		</transactionEmployer>
+		<transactionFundForMember>
+			<fundIdentifier>FUND123</fundIdentifier>
+			<fundEmployerIdentifier>FEID1</fundEmployerIdentifier>
+			<memberFundRegistrationDate>2017-10-21T00:00:00</memberFundRegistrationDate>
+		</transactionFundForMember>
+		<transactionMembers>
+			<memberFirstName>John</memberFirstName>
+			<memberLastName>Smith</memberLastName>
+			<memberOtherNames></memberOtherNames>
+			<memberDateOfBirth>1976-11-28T00:00:00</memberDateOfBirth>
+			<memberGender>M</memberGender>
+			<memberAddress>12 Alcott Street Sydney NSW 2000</memberAddress>
+			<memberEmail>jsmith@email.com</memberEmail>
+			<memberContactNumber>401234567</memberContactNumber>
+			<memberNumber>M12345</memberNumber>
+			<memberTFN>123456782</memberTFN>
+			<memberPayrollNumber>P12345</memberPayrollNumber>
+			<memberEmploymentStatus>Permanent</memberEmploymentStatus>
+		</transactionMembers>
+		<transactionMembers>
+			<memberFirstName>Jasn</memberFirstName>
+			<memberLastName>Smith</memberLastName>
+			<memberOtherNames></memberOtherNames>
+			<memberDateOfBirth>1967-11-28T00:00:00</memberDateOfBirth>
+			<memberGender>M</memberGender>
+			<memberAddress>12 windsor Sydney NSW 2000</memberAddress>
+			<memberEmail>jsmith@email.com</memberEmail>
+			<memberContactNumber>40124321</memberContactNumber>
+			<memberNumber>M12333</memberNumber>
+			<memberTFN>12345444</memberTFN>
+			<memberPayrollNumber>P12355</memberPayrollNumber>
+			<memberEmploymentStatus>Permanent</memberEmploymentStatus>
+		</transactionMembers>
+	</transactionDetails>
+	<transactionDetails>
+		<transactionEmployer>
+			<employerNames>WILLS Inc</employerNames>
+			<employerABN>44 794 738 444</employerABN>
+		</transactionEmployer>
+		<transactionFundForMember>
+			<fundIdentifier>FUND333</fundIdentifier>
+			<fundEmployerIdentifier>FEID2</fundEmployerIdentifier>
+			<memberFundRegistrationDate>2019-11-28T00:00:00</memberFundRegistrationDate>
+		</transactionFundForMember>
+		<transactionMembers>
+			<memberFirstName>Jay</memberFirstName>
+			<memberLastName>Smith</memberLastName>
+			<memberOtherNames></memberOtherNames>
+			<memberDateOfBirth>1990-11-28T00:00:00</memberDateOfBirth>
+			<memberGender>M</memberGender>
+			<memberAddress>12 Campertown Sydney NSW 2000</memberAddress>
+			<memberEmail>jaysmith@email.com</memberEmail>
+			<memberContactNumber>401234555</memberContactNumber>
+			<memberNumber>M12345</memberNumber>
+			<memberTFN>123456782</memberTFN>
+			<memberPayrollNumber>P12345</memberPayrollNumber>
+			<memberEmploymentStatus>Contract </memberEmploymentStatus>
+		</transactionMembers>
+	</transactionDetails>
+</memberRegistrationTransaction>

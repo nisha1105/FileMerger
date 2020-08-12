@@ -1,0 +1,2 @@
+transactionIdentifier,employerNames,employerABN,fundIdentifier,fundEmployerIdentifier,memberFirstName,memberLastName,memberOtherNames,memberDateOfBirth,memberGender,memberAddress,memberEmail,memberContactNumber,memberNumber,memberTFN,memberPayrollNumber,memberEmploymentStatus,memberFundRegistrationDate
+1,ACME Inc,55 794 738 187,FUND123,FEID1,John,Smith,,23/12/90,M,12 Alcott Street Sydney NSW 2000,jsmith@email.com,401234567,M12345,123456782,P12345,Permanent,21/10/17
